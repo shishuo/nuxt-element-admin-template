@@ -13,11 +13,11 @@
     "@pinia/nuxt": "^0.5.4",
     "nuxt": "^3.13.0",
     "nuxt-icons": "^3.2.1",
+    "pinia-plugin-persistedstate": "^4.7.1",
     "vue": "latest"
   },
   "devDependencies": {
     "@element-plus/nuxt": "^1.0.10",
-    "@pinia-plugin-persistedstate/nuxt": "^1.2.1",
     "@vueuse/core": "^11.0.3",
     "@vueuse/nuxt": "^11.0.3",
     "element-plus": "^2.8.1",
