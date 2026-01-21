@@ -13,7 +13,6 @@ export default defineNuxtConfig({
     modules: [
         'nuxt-icons',
         '@pinia/nuxt',
-        '@pinia-plugin-persistedstate/nuxt',
         '@element-plus/nuxt',
         '@vueuse/nuxt'
     ],
